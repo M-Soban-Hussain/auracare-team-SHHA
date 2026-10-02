@@ -7,9 +7,9 @@ This repository is designed to practice Git workflow, branch protection, code re
 
 ## Team Structure
 *   **Engineering Lead / Repo Manager:** M. Soban Hussain
-*   **Developer A (Patient Triage):** [Name]
-*   **Developer B (Doctor Schedule):** [Name]
-*   **Developer C (Conflict Specialist):** [Name]
+*   **Developer A (Patient Triage):** [Hamza Mudassir]
+*   **Developer B (Doctor Schedule):** [Hamza Imran]
+*   **Developer C (Conflict Specialist):** [Muhammad Ali]
 
 ## Role Responsibilities
 
