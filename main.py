@@ -1,6 +1,6 @@
 
 # AuraCare Health Team SHHA
-APP_VERSION = "1.0.0"
+APP_VERSION = "2.0.0 BETA"
 MODULES_ENABLED = []
 
 def schedule_func():
